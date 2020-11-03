@@ -1,0 +1,12 @@
+C:\Users\SOPHIE\Desktop\Intensive2\phoneseller\customer\src\main\java\phoneseller\AbstractEvent.java
+C:\Users\SOPHIE\Desktop\Intensive2\phoneseller\customer\src\main\java\phoneseller\CustomerViewHandler.java
+C:\Users\SOPHIE\Desktop\Intensive2\phoneseller\customer\src\main\java\phoneseller\config\kafka\KafkaProcessor.java
+C:\Users\SOPHIE\Desktop\Intensive2\phoneseller\customer\src\main\java\phoneseller\Ordered.java
+C:\Users\SOPHIE\Desktop\Intensive2\phoneseller\customer\src\main\java\phoneseller\Shipped.java
+C:\Users\SOPHIE\Desktop\Intensive2\phoneseller\customer\src\main\java\phoneseller\PayCancelled.java
+C:\Users\SOPHIE\Desktop\Intensive2\phoneseller\customer\src\main\java\phoneseller\Customer.java
+C:\Users\SOPHIE\Desktop\Intensive2\phoneseller\customer\src\main\java\phoneseller\CustomerApplication.java
+C:\Users\SOPHIE\Desktop\Intensive2\phoneseller\customer\src\main\java\phoneseller\PolicyHandler.java
+C:\Users\SOPHIE\Desktop\Intensive2\phoneseller\customer\src\main\java\phoneseller\CustomerRepository.java
+C:\Users\SOPHIE\Desktop\Intensive2\phoneseller\customer\src\main\java\phoneseller\Ordercancelled.java
+C:\Users\SOPHIE\Desktop\Intensive2\phoneseller\customer\src\main\java\phoneseller\PayCompleted.java
